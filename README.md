@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently studying Software Engineer at the ITMO University of Saint-Petersburg.\
 ✍️ &nbsp;In my free time, I watching or playing hockey or football.\
 ✉️ &nbsp;You can shoot me an email at hafizov.bulat2002@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://github.com/bulat3103/resume/blob/main/%D0%A5%D0%B0%D1%84%D0%B8%D0%B7%D0%BE%D0%B2%20%D0%91%D1%83%D0%BB%D0%B0%D1%82%20%D0%9B%D0%B5%D0%BD%D0%B0%D1%80%D0%BE%D0%B2%D0%B8%D1%87.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please, have a look at my [Resume](https://github.com/bulat3103/resume/blob/main/%D0%A5%D0%B0%D1%84%D0%B8%D0%B7%D0%BE%D0%B2%20%D0%91%D1%83%D0%BB%D0%B0%D1%82%20%D0%9B%D0%B5%D0%BD%D0%B0%D1%80%D0%BE%D0%B2%D0%B8%D1%87.pdf) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
